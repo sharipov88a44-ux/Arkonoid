@@ -48,7 +48,6 @@ class Label(Area):
         window.blit(self.image, (self.rect.x + shift_x, self.rect.y + shift_y))
            
 ball = Picture('ball.png', 240, 450, 50, 50)
-
 platform = Picture('platform.png', 215, 500, 100, 24)
 
 move_left = False
