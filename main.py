@@ -131,3 +131,4 @@ while not game_over:
  
     clock.tick(140)
     pg.display.update()
+    
